@@ -1,0 +1,52 @@
+@font-face 
+{
+ font-family:Circles_New;
+ src:url('../fonts/Circles_New.ttf'); /* TTF file for CSS3 browsers */
+}
+
+@font-face 
+{
+ font-family:segoe-ui-bold;
+ src:url('../fonts/segoe-ui-bold.ttf'); /* TTF file for CSS3 browsers */
+}
+
+@font-face
+{
+    font-family:MinstrelPosterTwo;
+    src:url('../fonts/MinstrelPosterTwo.ttf');
+}
+
+@font-face
+{
+    font-family:copyb;
+    src:url('../fonts/COPYB.TTF');
+}
+
+
+
+@font-face
+{
+    font-family:BalooBhai;
+  src:url('../fonts/BalooBhai-Regular.ttf');
+}
+
+@font-face
+{
+  font-family:Raleway-Regular;
+  src:url('../fonts/Raleway-Regular.ttf');
+}
+
+@font-face
+{
+  font-family:CinnabarBrush;
+  src:url('../fonts/CinnabarBrush.ttf');
+}
+
+@font-face
+{
+  font-family:Double_Scratch;
+  src:url('../fonts/Double Scratch.ttf');
+}
+
+
+

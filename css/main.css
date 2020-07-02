@@ -1,0 +1,77 @@
+body
+{
+   background:url('../images/trash_bg.png');
+}
+
+/*sticky footer */
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -60px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  height: 60px; 
+}
+.site-footer {
+  /*background: orange;*/
+  font-family:copyb;
+}
+/*sticky footer end*/      
+
+.q_hide{
+    display: none;
+}
+
+
+/* 2 Logo */
+
+.hit-the-floor {
+margin:15% 0 0 0;
+display:none;
+overflow: hidden;
+color:white;/* #ffc107 /*#2196F3*/;
+font-size: 120px;
+/*font-size: 8vw;*/
+font-weight: bold;
+font-family: BalooBhai;
+text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+text-align: center;
+ 
+}
+.hit-the-floor-small {
+margin:48% 0 0 0;
+display:none;
+overflow: hidden;
+color:white;;
+font-size: 40px;
+font-weight: bold;
+font-family: BalooBhai;
+text-align: center;
+
+}
+.tagline{
+    margin: -2.5% 18% 0 0;
+    display:none;
+    overflow: hidden;
+    font-size:35px;
+    font-family:Double_Scratch;
+}
+
+.tagline-small{
+    margin: -2.5% 5% 0 0;
+    display:none;
+    overflow:hidden;
+    font-size:15px;
+    font-family:Double_Scratch;
+}
+
